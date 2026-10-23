@@ -1,0 +1,11 @@
+algorithm,density,edge_scans_slope,operations_slope
+Kruskal,sparse,1.05500251082575,1.0930775988914052
+Kruskal,dense,1.119420822596835,1.0876558062601265
+Prim,sparse,1.0,1.1018685644563588
+Prim,dense,1.0,1.0850899585931917
+Kosaraju,sparse,1.0,1.0
+Kosaraju,dense,1.0,1.0
+Kahn,sparse,1.0,1.0
+Kahn,dense,1.0,1.0
+DagShortestPath,sparse,1.0,1.0
+DagShortestPath,dense,1.0,1.0
